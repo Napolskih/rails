@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'rails'
   s.version     = version
-  s.summary     = 'Full-stack web application framework. '
+  s.summary     = 'Full-stack web application framework.'
   s.description = 'Ruby on Rails is a full-stack web framework optimized for programmer happiness and sustainable productivity. It encourages beautiful code by favoring convention over configuration.'
 
   s.license = 'MIT'
